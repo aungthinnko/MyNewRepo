@@ -5,3 +5,7 @@ body {
 header {
     color: purple;
 }
+
+section {
+    font-family: 'Times New Roman', Times, serif;
+}
