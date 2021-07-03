@@ -9,3 +9,8 @@ header {
 section {
     font-family: 'Times New Roman', Times, serif;
 }
+
+h1 {
+    margin: 20px;
+    padding: 20px;
+}
